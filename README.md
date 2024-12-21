@@ -35,8 +35,7 @@
 
 - Dashboard was made using streamlit
 - To open the deployed one, open the url.txt file, copy the url and paste it in browser
-- To start dashboard locally, change direcory to dashboard dir using `cd dashboard`
-- Run dashboard using `streamlit run dashboard.py`
+- To start dashboard locally, run dashboard using `streamlit run ./dashboard/dashboard.py`
 - A new tab will open to show  dashoard
 
   

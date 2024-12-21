@@ -10,7 +10,7 @@ sns.set(style='dark')
 # Load data
 @st.cache_data
 def load_data():
-    return pd.read_csv("./tiantan_data.csv")
+    return pd.read_csv("./dashboard/tiantan_data.csv")
 
 tiantan_data = load_data()
 
